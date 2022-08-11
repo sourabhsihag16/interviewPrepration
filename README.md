@@ -25,3 +25,15 @@ curated from all over the internet for preparing SDE interviews
 ## Database
 
 - [Database Design Tips | Choosing the Best Database in a System Design Interview](https://www.youtube.com/watch?v=cODCpXtPHbQ&ab_channel=codeKarle)
+
+## SQL (Some companies ask questions from SQL also)
+- [sql vs noSql](https://www.interviewbit.com/blog/sql-vs-nosql/)
+
+## Spring/Spring boot stuff 
+
+
+## Java 
+
+## Machine Level Coding
+
+
