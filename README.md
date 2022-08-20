@@ -1,9 +1,10 @@
 
 # interviewPrepration
+
 curated from all over the internet for preparing SDE interviews
 
 
-
+[List of good companies](https://github.com/shubhvash/moreThanFAANGM)
 
 [Grokking System design (HLD, LLD, Case study, OOPS, Coding questions)](https://akshay-iyangar.github.io/system-design/)
 ## Data Structure and Algorithms
