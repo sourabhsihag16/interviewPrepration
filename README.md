@@ -21,6 +21,7 @@ curated from all over the internet for preparing SDE interviews ( You can follow
 
 ## Core CS Topics
 - [Most asked core computer science questions in interviews](https://www.geeksforgeeks.org/most-asked-computer-science-subjects-interview-questions-in-amazon-microsoft-flipkart/)
+- [summary on OS, Netwroking, DMBS (Okay-ish stuff)](https://github.com/workattech/core-cs-os-networks-dbms)
 
 
 ## Database
@@ -32,11 +33,12 @@ curated from all over the internet for preparing SDE interviews ( You can follow
 
 ## Java & Spring/Spring boot stuff 
 - [Mkyong - Learn java and Spring](https://mkyong.com/)
--
+- [Baeldung- Java and Spring](https://www.baeldung.com/)
  
-## Design Pattern 
+## LLD, HLD and Design Pattern 
 - [Design Patterns by HowToDoInJava](https://howtodoinjava.com/gang-of-four-java-design-patterns/)
+- [Low level design primer by Prasad Gujar)](https://github.com/prasadgujar/low-level-design-primer)
 ## Miscellaneous 
-- 
-
+- [microservices.io](https://microservices.io/patterns/microservices.html)
+- [DefogTech Youtube (Java, System design, Microservices)](https://www.youtube.com/c/DefogTech/featured)
 
