@@ -1,7 +1,7 @@
 
 # interviewPrepration
 
-curated from all over the internet for preparing SDE interviews
+curated from all over the internet for preparing SDE interviews ( You can follow other alternatives also. I'm adding topic name with link which I referred)
 
 
 [List of good companies](https://github.com/shubhvash/moreThanFAANGM)
@@ -30,11 +30,13 @@ curated from all over the internet for preparing SDE interviews
 ## SQL (Some companies ask questions from SQL also)
 - [sql vs noSql](https://www.interviewbit.com/blog/sql-vs-nosql/)
 
-## Spring/Spring boot stuff 
-
-
-## Java 
-
-## Machine Level Coding
+## Java & Spring/Spring boot stuff 
+- [Mkyong - Learn java and Spring](https://mkyong.com/)
+-
+ 
+## Design Pattern 
+- [Design Patterns by HowToDoInJava](https://howtodoinjava.com/gang-of-four-java-design-patterns/)
+## Miscellaneous 
+- 
 
 
