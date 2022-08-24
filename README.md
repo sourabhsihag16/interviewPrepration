@@ -44,3 +44,6 @@ curated from all over the internet for preparing SDE interviews ( You can follow
 - [microservices.io](https://microservices.io/patterns/microservices.html)
 - [DefogTech Youtube (Java, System design, Microservices)](https://www.youtube.com/c/DefogTech/featured)
 
+## HR Discussion
+- [Salary Negotiation ](https://github.com/sourabhsihag16/interviewPrepration/blob/main/salary_negotiation_101.md)
+
