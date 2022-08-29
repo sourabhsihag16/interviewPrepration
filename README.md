@@ -39,7 +39,7 @@ curated from all over the internet for preparing SDE interviews ( You can follow
 - [SOLID Principles](https://www.youtube.com/watch?v=gumM1H4qLUM)
 - [System design primer by Donne Martin] (https://github.com/donnemartin/system-design-primer)
 - [Design Patterns by HowToDoInJava](https://howtodoinjava.com/gang-of-four-java-design-patterns/)
-- [Low level design primer by Prasad Gujar)](https://github.com/prasadgujar/low-level-design-primer)
+- [Low level design primer (Machine Coding) by Prasad Gujar)](https://github.com/prasadgujar/low-level-design-primer)
 
 ## Miscellaneous 
 - [microservices.io](https://microservices.io/patterns/microservices.html)
